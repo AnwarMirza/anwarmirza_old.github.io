@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anwar Mirza's Machine Learning Blog"
+title: "Anwar Mirza's Blog"
 date: 2020-12-21
 ---
 
